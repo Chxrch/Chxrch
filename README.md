@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Chxrch
 - 👀 I’m interested in ... automation and scripting 
 - 🌱 I’m currently learning ... python through Runescape
-- 💞️ I’m looking to collaborate on ... Python automation
+- 💞️ I’m looking to collaborate on ... python automation
 - 📫 How to reach me ...
 
 <!---
